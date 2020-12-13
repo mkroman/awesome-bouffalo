@@ -29,3 +29,4 @@ the development of Bouffalo Lab's RISC-V chips.
 ### Board details
 
 * [lupyens peek of pinecone](https://lupyuen.github.io/articles/pinecone)
+* [Connect PineCone BL602 to OpenOCD](https://lupyuen.github.io/articles/openocd)
