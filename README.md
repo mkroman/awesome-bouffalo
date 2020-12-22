@@ -49,3 +49,4 @@ the development of Bouffalo Lab's RISC-V chips.
 * [lupyens peek of pinecone](https://lupyuen.github.io/articles/pinecone)
 * [Connect PineCone BL602 to OpenOCD](https://lupyuen.github.io/articles/openocd)
 * [Debug Rust on PineCone BL602 with VSCode and GDB](https://lupyuen.github.io/articles/debug)
+* [Porting Mynewt to PineCone BL602](https://lupyuen.github.io/articles/mynewt)
