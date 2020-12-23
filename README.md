@@ -8,6 +8,7 @@ the development of Bouffalo Lab's RISC-V chips.
 * [HAL implementations](#hal-implementations)
 * [ROM tools](#rom-tools)
 * [Board details](#board-details)
+* [Software details](#software-details)
 
 ### HAL implementations
 
