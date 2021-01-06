@@ -51,6 +51,7 @@ the development of Bouffalo Lab's RISC-V chips.
 * [Connect PineCone BL602 to OpenOCD](https://lupyuen.github.io/articles/openocd)
 * [Debug Rust on PineCone BL602 with VSCode and GDB](https://lupyuen.github.io/articles/debug)
 * [Flashing Firmware to PineCone BL602](https://lupyuen.github.io/articles/flash)
+* [Control PineCone BL602 RGB LED with GPIO and PWM](https://lupyuen.github.io/articles/led)
 
 ### Software details
 * [Porting Mynewt to PineCone BL602](https://lupyuen.github.io/articles/mynewt)
