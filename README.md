@@ -55,6 +55,8 @@ the development of Bouffalo Lab's RISC-V chips.
 * [PineCone BL602 talks to I2C Sensors](https://lupyuen.github.io/articles/i2c)
 * [PineCone BL602 talks SPI too!](https://lupyuen.github.io/articles/spi)
 * [PineCone BL602 Blasting Pixels to ST7789 Display with LVGL Library](https://lupyuen.github.io/articles/display)
+* [PineCone BL602 Talks UART to Grove E-Ink Display](https://lupyuen.github.io/articles/uart)
+* [The RISC-V BL602 Book](https://lupyuen.github.io/articles/book)
 
 ### Software details
 * [Porting Mynewt to PineCone BL602](https://lupyuen.github.io/articles/mynewt)
