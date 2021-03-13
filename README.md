@@ -58,6 +58,7 @@ the development of Bouffalo Lab's RISC-V chips.
 * [PineCone BL602 Talks UART to Grove E-Ink Display](https://lupyuen.github.io/articles/uart)
 * [The RISC-V BL602 Book](https://lupyuen.github.io/articles/book)
 * [Connect PineCone BL602 to LoRa Transceiver](https://lupyuen.github.io/articles/lora)
+* [RAKwireless WisBlock talks LoRa with PineCone BL602 RISC-V Board](https://lupyuen.github.io/articles/wisblock)
 
 ### Software details
 * [Porting Mynewt to PineCone BL602](https://lupyuen.github.io/articles/mynewt)
