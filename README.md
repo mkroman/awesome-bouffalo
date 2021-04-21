@@ -65,3 +65,4 @@ the development of Bouffalo Lab's RISC-V chips.
 * [Porting Mynewt to PineCone BL602](https://lupyuen.github.io/articles/mynewt)
 * [Mynewt GPIO ported to PineCone BL602 RISC-V Board](https://lupyuen.github.io/articles/gpio)
 * [BL602 SVD description](https://github.com/pine64/bl602-svd)
+* [Run Rust RISC-V Firmware with BL602 IoT SDK](https://lupyuen.github.io/articles/rust)
