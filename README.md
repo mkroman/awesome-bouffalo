@@ -60,6 +60,7 @@ the development of Bouffalo Lab's RISC-V chips.
 * [Connect PineCone BL602 to LoRa Transceiver](https://lupyuen.github.io/articles/lora)
 * [RAKwireless WisBlock talks LoRa with PineCone BL602 RISC-V Board](https://lupyuen.github.io/articles/wisblock)
 * [PineCone BL602 RISC-V Board Receives LoRa Packets](https://lupyuen.github.io/articles/lora2)
+* [PineCone BL602 Talks LoRaWAN](https://lupyuen.github.io/articles/lorawan)
 
 ### Software details
 * [Porting Mynewt to PineCone BL602](https://lupyuen.github.io/articles/mynewt)
