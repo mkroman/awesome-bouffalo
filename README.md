@@ -69,3 +69,4 @@ the development of Bouffalo Lab's RISC-V chips.
 * [Run Rust RISC-V Firmware with BL602 IoT SDK](https://lupyuen.github.io/articles/rust)
 * [uLisp and Blockly on PineCone BL602 RISC-V Board](https://lupyuen.github.io/articles/lisp)
 * [Simulate RISC-V BL602 with WebAssembly, uLisp and Blockly](https://lupyuen.github.io/articles/wasm)
+* [BL602 Bootloader](https://lupyuen.github.io/articles/boot)
