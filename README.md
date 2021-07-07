@@ -71,3 +71,4 @@ the development of Bouffalo Lab's RISC-V chips.
 * [Simulate RISC-V BL602 with WebAssembly, uLisp and Blockly](https://lupyuen.github.io/articles/wasm)
 * [BL602 Bootloader](https://lupyuen.github.io/articles/boot)
 * [Machine Learning on RISC-V BL602 with TensorFlow Lite](https://lupyuen.github.io/articles/tflite)
+* [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
