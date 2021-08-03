@@ -72,3 +72,4 @@ the development of Bouffalo Lab's RISC-V chips.
 * [BL602 Bootloader](https://lupyuen.github.io/articles/boot)
 * [Machine Learning on RISC-V BL602 with TensorFlow Lite](https://lupyuen.github.io/articles/tflite)
 * [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
+* [Rust on RISC-V BL602: Is It Sunny?](https://lupyuen.github.io/articles/adc)
