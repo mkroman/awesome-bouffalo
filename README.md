@@ -75,3 +75,4 @@ the development of Bouffalo Lab's RISC-V chips.
 * [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
 * [Rust on RISC-V BL602: Is It Sunny?](https://lupyuen.github.io/articles/adc)
 * [Rust on RISC-V BL602: Simulated with WebAssembly](https://lupyuen.github.io/articles/rustsim)
+* [Rust on RISC-V BL602: Rhai Scripting](https://lupyuen.github.io/articles/rhai)
