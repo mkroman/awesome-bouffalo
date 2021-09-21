@@ -77,3 +77,4 @@ the development of Bouffalo Lab's RISC-V chips.
 * [Rust on RISC-V BL602: Simulated with WebAssembly](https://lupyuen.github.io/articles/rustsim)
 * [Rust on RISC-V BL602: Rhai Scripting](https://lupyuen.github.io/articles/rhai)
 * [LoRaWAN on PineDio Stack BL604 RISC-V Board](https://lupyuen.github.io/articles/lorawan2)
+* [The Things Network on PineDio Stack BL604 RISC-V Board](https://lupyuen.github.io/articles/ttn)
