@@ -62,6 +62,7 @@ the development of Bouffalo Lab's RISC-V chips.
 * [PineCone BL602 RISC-V Board Receives LoRa Packets](https://lupyuen.github.io/articles/lora2)
 * [PineCone BL602 Talks LoRaWAN](https://lupyuen.github.io/articles/lorawan)
 * [PineDio Stack BL604 RISC-V Board: Testing The Prototype](https://lupyuen.github.io/articles/pinedio)
+* [Internal Temperature Sensor on BL602](https://lupyuen.github.io/articles/tsen)
 
 ### Software details
 * [Porting Mynewt to PineCone BL602](https://lupyuen.github.io/articles/mynewt)
