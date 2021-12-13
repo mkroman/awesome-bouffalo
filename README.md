@@ -81,3 +81,4 @@ the development of Bouffalo Lab's RISC-V chips.
 * [The Things Network on PineDio Stack BL604 RISC-V Board](https://lupyuen.github.io/articles/ttn)
 * [Encode Sensor Data with CBOR on BL602](https://lupyuen.github.io/articles/cbor)
 * [Apache NuttX OS on RISC-V BL602 and BL604](https://lupyuen.github.io/articles/nuttx)
+* [SPI on Apache NuttX OS](https://lupyuen.github.io/articles/spi2)
